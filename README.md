@@ -1,2 +1,3 @@
 # hello-world
-This is a change to the readme file. HELLO!!!
+¡Hola!
+Bienvenido a mi cuenta de github. Estoy aprendiendo a usarlo, para no quedar tan rezagado.
